@@ -20,7 +20,6 @@ My full name is `Vu Dinh Khanh Linh`.
 <h4 align="left">OS:</h4>
 
 <p><a target="_blank" rel="noreferrer">
-
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VuLinh011218&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8&card_width=500)<br><img src="https://github-readme-activity-graph.vercel.app/graph?username=VuLinh011218&bg_color=0e1118&hide_border=true&custom_title=VuLinh011218's%20Contribution%20Graph&area=true&area_color=1488D8&title_color=1488D8&line=1488D8&point=1488D8&theme=high-contrast" width="650" alt="VuLinh011218Contribution-graph" title="VuLinh011218's Contribution Graph">|<pre><img align="center" width="150" height="150" src="Icons/bku.ico"/><br>University of Technology</pre> <pre><img align="center" width="90" height="93" src="Icons/PIF_Leaf.png"/><br><br>Pay It Forward</pre>|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VuLinh&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8&card_width=500)<br><img src="https://github-readme-activity-graph.vercel.app/graph?username=VuLinh&bg_color=0e1118&hide_border=true&custom_title=VuLinh's%20Contribution%20Graph&area=true&area_color=1488D8&title_color=1488D8&line=1488D8&point=1488D8&theme=high-contrast" width="650" alt="VuLinhContribution-graph" title="VuLinh's Contribution Graph">|<pre><img align="center" width="150" height="150" src="Icons/bku.ico"/><br>University of Technology</pre> <pre><img align="center" width="90" height="93" src="Icons/PIF_Leaf.png"/><br><br>Pay It Forward</pre>|
 |---|---|
-# VuLinh011218
+# VuLinh
