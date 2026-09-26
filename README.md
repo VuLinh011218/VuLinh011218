@@ -19,12 +19,12 @@ My full name is `Vu Dinh Khanh Linh`.
   <img src="./Icons/git-scm-icon.svg" width="35" height="35" alt="Git"/>
   <img src="./Icons/Github.ico" width="35" height="35" alt="GitHub"/>
   <img src="./Icons/altium_designer.png" width="35" height="35" alt="Altium Designer"/>
+  <img src="./Icons/kicad.png"           width="35" height="35"/></a></p>
 </p>
-
 
 <h4 align="left">GitHub Stats:</h4>
 
-<p align="left">
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VuLinh011218&theme=github_dark"
     width="700"
